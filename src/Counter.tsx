@@ -5,7 +5,7 @@ export default function Counter() {
 
   return (
     <>
-      <span>This is an awesome counter!</span>
+      <span>WOW</span>
       <button onClick={() => setCount((prev) => prev + 1)}>{count}</button>
     </>
   );
